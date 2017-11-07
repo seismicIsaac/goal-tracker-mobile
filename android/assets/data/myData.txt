@@ -1,0 +1,160 @@
+{
+selectedGoal: {
+	name: Goal #0
+	nameChanged: {}
+	note: ""
+	noteChanged: {}
+	selfRating: 3
+	selfRatingChanged: {}
+	goalHistory: [
+		{
+			note: ""
+			selfRating: 10
+			dateSet: 1506296329591
+		}
+		{
+			note: ""
+			selfRating: 6
+			dateSet: 1506296334693
+		}
+		{
+			note: ""
+			selfRating: 1
+			dateSet: 1506296336277
+		}
+		{
+			note: ""
+			selfRating: 3
+			dateSet: 1506296337694
+		}
+	]
+}
+goalSelected: {}
+goals: [
+	{
+		name: Get Better at programming
+		nameChanged: {}
+		note: the best
+		noteChanged: {}
+		selfRating: 4
+		selfRatingChanged: {}
+		goalHistory: [
+			{
+				note: ""
+				selfRating: 3
+				dateSet: 1441089431607
+			}
+			{
+				note: t
+				selfRating: 3
+				dateSet: 1441089438594
+			}
+			{
+				note: th
+				selfRating: 3
+				dateSet: 1441089438807
+			}
+			{
+				note: the
+				selfRating: 3
+				dateSet: 1441089438924
+			}
+			{
+				note: "the "
+				selfRating: 3
+				dateSet: 1441089439024
+			}
+			{
+				note: the b
+				selfRating: 3
+				dateSet: 1441089439257
+			}
+			{
+				note: the be
+				selfRating: 3
+				dateSet: 1441089439357
+			}
+			{
+				note: the bes
+				selfRating: 3
+				dateSet: 1441089439624
+			}
+			{
+				note: the best
+				selfRating: 3
+				dateSet: 1441089439807
+			}
+			{
+				note: the best
+				selfRating: 5
+				dateSet: 1441089446374
+			}
+			{
+				note: the best
+				selfRating: 4
+				dateSet: 1506296312275
+			}
+		]
+	}
+	{
+		name: Talk to people more often
+		nameChanged: {}
+		note: ""
+		noteChanged: {}
+		selfRating: 9
+		selfRatingChanged: {}
+		goalHistory: [
+			{
+				note: ""
+				selfRating: 7
+				dateSet: 1506296313858
+			}
+			{
+				note: ""
+				selfRating: 9
+				dateSet: 1506296319154
+			}
+		]
+	}
+	{
+		name: Goal #0
+		nameChanged: {}
+		note: ""
+		noteChanged: {}
+		selfRating: 3
+		selfRatingChanged: {}
+		goalHistory: [
+			{
+				note: ""
+				selfRating: 10
+				dateSet: 1506296329591
+			}
+			{
+				note: ""
+				selfRating: 6
+				dateSet: 1506296334693
+			}
+			{
+				note: ""
+				selfRating: 1
+				dateSet: 1506296336277
+			}
+			{
+				note: ""
+				selfRating: 3
+				dateSet: 1506296337694
+			}
+		]
+	}
+	{
+		name: Goal #1
+		nameChanged: {}
+		note: ""
+		noteChanged: {}
+		selfRating: 1
+		selfRatingChanged: {}
+	}
+]
+goalAdded: {}
+goalRemoved: {}
+}
